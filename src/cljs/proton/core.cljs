@@ -26,6 +26,7 @@
             [proton.layers.fun.power_mode.core]
 
             ;; langs
+            [proton.layers.lang.php.core]
             [proton.layers.lang.clojure.core]
             [proton.layers.lang.swift.core]
             [proton.layers.lang.csharp.core]
