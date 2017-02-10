@@ -11,6 +11,7 @@
   []
   { :t {:category "toggle"
           :d {:category "debugging"
+            :b {:action "php-debug:toggleBreakpoint" :title "php breakpoint"}
             :p {:action "php-debug:toggleDebugging" :title "php debugging"}}}})
 
 (defmethod get-packages :lang/php []
