@@ -17,4 +17,5 @@
 (defmethod get-packages :lang/php []
   [
    :php-debug
+   :atom-ctags
   ])
